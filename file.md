@@ -21,3 +21,10 @@ git checkout -b branch1
 
 # to change branches 
 git checkout <branchName>
+
+# merge branches to main 
+ensure we are on the main branch 
+git merge branchname that we want 
+
+# save changes without committing them 
+git stash
