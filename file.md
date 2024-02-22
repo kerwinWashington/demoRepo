@@ -18,3 +18,6 @@ git config --global unit.defaultbranch main
 
 # creat and switch to new branch 
 git checkout -b branch1
+
+# to change branches 
+git checkout <branchName>
