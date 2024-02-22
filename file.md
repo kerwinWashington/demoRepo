@@ -15,3 +15,6 @@ git config --gloabl user.name
 
 # make sure that the default branch for any repo is main instead of master
 git config --global unit.defaultbranch main 
+
+# creat and switch to new branch 
+git checkout -b branch1
